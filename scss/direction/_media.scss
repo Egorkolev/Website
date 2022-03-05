@@ -1,0 +1,420 @@
+
+@media only screen and (max-width: 600px) {
+
+    .container {
+        padding: 0 15px;
+    }
+    
+    .tabs {
+        text-align: center;
+    }
+
+    .nav {
+        flex-wrap: nowrap;
+        justify-content: center;
+    }
+
+    .mainText p {
+        margin: 15px auto;
+    }
+
+    .nav-tabs .nav-link.active {
+        padding: 10px;
+        width: 100%;
+    }
+
+    .nav-tabs .nav-link {
+        padding: 10px;
+        width: 100%;
+    }
+
+    .mainText {
+        text-align: center;
+    }
+
+    .mainText h2 {
+        font-size: 43px;
+        line-height: 62px;
+    }
+
+    .but {
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 20px;
+        flex-wrap: nowrap;
+    }
+
+    .fuck {
+        margin: 20px auto;
+    }
+
+    .fuckTo {
+        margin: 20px auto;
+    }
+
+    .webHosting1 .rightBox3 .logo2 ul li {
+        margin: 0 5px;
+    }
+
+
+    .women .womenImg {
+        padding-top: 20px;
+        max-width: none;
+    }
+
+    .card-group>.card {
+        flex: none;
+        max-width: 300px;
+        margin: 15px auto;
+    }
+
+    .card-group>.card+.card {
+        margin: 15px auto;
+    }
+
+    .nav_menu {
+        display: none;
+    }
+
+    .nav-link2 {
+        margin: 0 auto;
+    }
+
+    .account {
+        display: none;
+    }
+
+    .nav_menu_link {
+        display: none;
+    }
+
+    .treangle2 {
+        right: -12px;
+        top: 54px;
+    }
+
+    .treangle {
+        right: -10px;
+        top: 232px;
+    }
+
+    .treangle3 {
+        left: -10px;
+        top: 143px;
+    }
+
+    .treangle4 {
+        right: -12px;
+    }
+
+    .treangle5 {
+        right: -12px;
+    }
+
+    .mainText5 {
+        position: static;
+        text-align: center;
+    }
+    
+    .card {
+        margin: 0;
+        margin-bottom: 30px;
+    }
+
+    .card-body {
+        padding: 0;
+    }
+
+    .cardRightAp {
+        position: static;
+    }
+
+    .cardRight {
+        position: static;
+        max-width: 500px;
+    }
+
+    .cardleft {
+        position: static;
+        max-width: 500px;
+    }
+
+    .lastText h2 {
+        font-size: 35px;
+        line-height: 59px;
+    }
+
+    .footer {
+        display: block;
+    }
+
+    .lastP {
+        display: inline-block;
+    }
+
+    .stories {
+        margin-top: 80px;
+    }
+
+    .textImg {
+        position: absolute;
+        top: -46px;
+        left: 50px;
+        z-index: -1;
+    }
+
+    .leftBox3 {
+        text-align: center;
+    }
+
+    .footer {
+        text-align: center;
+    }
+
+    .leftBox2 {
+        text-align: center;
+    }
+
+    .webHosting .rightBox2 .logo6 ul {
+        margin-top: 40px;
+    }
+
+    .pack .nav-tabs .nav-link.active::before {
+        width: 100%;
+        left: 0;
+    }
+
+    .pack .nav-tabs .nav-link::before {
+        width: 100%;
+        left: 0;
+    }
+
+    .pack .nav button {
+        margin: 0 auto;
+    }
+} 
+
+@media only screen and (min-width: 600px) {
+
+    .mainText5 {
+        position: static;
+        text-align: center;
+    }
+
+    .cardRightAp {
+        position: static;
+    }
+
+    .cardRight {
+        position: static;
+        max-width: 500px;
+    }
+
+    .cardleft {
+        position: static;
+        max-width: 500px;
+    }
+    
+    .card {
+        margin: 0;
+        margin-bottom: 30px;
+    }
+
+    .card-group>.card {
+        margin-bottom: 45px;
+    }
+
+
+    .card-body {
+        padding: 0;
+    }
+
+    .textImg {
+        top: -43px;
+        left: 24px;
+    }
+
+    .footer {
+        flex-wrap: nowrap;
+    }
+
+    .ulList {
+        margin-right: 10px;
+    }
+
+    .choosePack h2 {
+        text-align: left;
+    }
+
+    .account {
+        display: none;
+    }
+
+    .nav_menu_link {
+        display: none;
+    }
+
+} 
+
+@media only screen and (min-width: 768px) {
+
+    .mainText5 {
+        position: static;
+        text-align: center;
+    }
+
+    .cardRightAp {
+        position: static;
+    }
+
+    .cardRight {
+        position: static;
+    }
+
+    .cardleft {
+        position: static;
+    }
+
+    .account {
+        display: flex;
+    }
+
+    .nav_menu_link {
+        display: none;
+    }
+
+    .border {
+        display: none;
+    }
+
+} 
+
+@media only screen and (min-width: 992px) {
+
+    .menu-btn {
+        display: none;
+    }
+
+    .mainText5 {
+        position: absolute;
+        text-align: center;
+        top: 150px;
+        left: 20px;
+    }
+
+    .cardRightAp {
+        position: absolute;
+        top: 200px;
+        right: -5px;
+    }
+
+    .cardRight {
+        position: absolute;
+        top: 640px;
+        right: 90px;
+        max-width: 400px;
+    }
+
+    .cardleft {
+        position: absolute;
+        top: 360px;
+        left: 25px;
+        max-width: 350px;
+    }
+
+    .mainText {
+        max-width: 505px;
+    }
+
+    .leftBox2 {
+        max-width: 456px;
+    }
+
+    .webHosting .rightBox2 {
+        max-width: 471px;
+    }
+
+    .account {
+        display: flex;
+    }
+
+    .nav_menu_link {
+        display: block;
+    } 
+
+    .card-group>.card {
+        margin: 0 10px 45px;
+    }
+} 
+
+@media only screen and (min-width: 1200px) {
+
+    .webHosting1 {
+        justify-content: space-around;
+    }
+
+    .choosePack h2 {
+        text-align: center;
+    }
+
+    .webHosting {
+        justify-content: space-around;
+    }
+
+    .hosting {
+        justify-content: space-around;
+    }
+
+    .header {
+        max-width: 1400px;
+        margin: 0 auto;
+        position: static;
+    }
+
+    .menu-btn {
+        display: none;
+    }
+
+    .women .womenImg {
+        padding-top: 30px;
+    }
+
+    .tabs {
+        padding: 0;
+    }
+
+    .treangle {
+        top: 355px;
+    }
+
+    .treangle2 {
+        top: 80px;
+    }
+
+    .mainText5 {
+        position: absolute;
+        text-align: center;
+        top: 150px;
+        left: 90px;
+    }
+
+    .cardRightAp {
+        position: absolute;
+        top: 200px;
+        right: 40px;
+    }
+
+    .cardRight {
+        position: absolute;
+        top: 640px;
+        right: 135px;
+        max-width: 400px;
+    }
+
+    .cardleft {
+        position: absolute;
+        top: 360px;
+        left: 150px;
+        max-width: 350px;
+    }
+}
